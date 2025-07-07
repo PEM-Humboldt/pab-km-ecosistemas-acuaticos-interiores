@@ -1,6 +1,6 @@
-Cálculo de indicadores para ecositemas acuaticos interiores
+Cálculo de indicadores para ecosistemas acuáticos interiores
 ================
-En esta sección se guardan los códigos relacionados con el Cálculo de los indicadores de ecosistemas acuáticos interiores: 
+En esta sección se guardan los códigos relacionados con el cálculo de los indicadores de ecosistemas acuáticos interiores: 
 
 1. "00_CAQ_Tipologias.R" : Prepara las tipologías de ríos y humedales en la Cuenca de estudio y para los años de interés :Ejemplo Cuenca del Rio Caquetá.           2. "01_CAQ_apme.R": Alista las áreas de protección y zonas de manejo especial en La Cuenca de estudio y para los años de interés.                  
 3. "02_CAQ_Extension.R": Cálculo del indicador de extensión The ecosistemas tipo humedal y ecosistemas de ríos según la metodología descrita en la ficha técnica XXXXX.              
