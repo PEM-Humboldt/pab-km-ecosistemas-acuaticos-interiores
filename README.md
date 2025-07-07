@@ -1,22 +1,23 @@
 Indicadores de ecosistemas de agua dulce interiores
 ================
 
-Este repositorio tiene los paso y datos para hacer el cálculo de la huella espacial humana a nivel nacional. 
+Cálculo de indicadores e integridad de ecosistemas de agua dulce interiores para el reporte a los convenios del Plan de Acción de la Biodiversidad y el Marco Global de Biodiversidad Kunming-Montreal (MGB-KM).Este repositorio tiene los paso y datos para  hacer el cálculo de Los indicadores de extensión y representatividad. Además se presenta la rutina para el cálculo de integridad basado en la demanda hídrica.
 
 
 ## Organizar directorio de trabajo
 
 Los datos para correr los códigos están almacenados
 [aquí](https://drive.google.com/file/d/1YQjFb3u8uJ7UmWHlNncM_UXtJ_gJcOmz/view?usp=drive_link).
-Una vez descargada y descomprimida la carpeta, reemplaze la carpeta “Datos” en el directorio Datos del proyecto.
+Una vez descargada y descomprimida la carpeta, reemplaze la carpeta “Datos” y "Res_Intermedios" en el directorio Datos del proyecto.
 El directorio del proyecto está organizado de la siguiente manera.
 
     Codigos
-    │-  00_InsumosGenerales.R
-    │-  01_Insumosxhuella.R
-    │-  02_HuellaHumana_Diaz.R
-    │-  03_HuellaHumana_adaptada.R
-    │-  04_Comparar entre versiones.R
+    │-  00_CAQ_Tipologias.R
+    │-  01_CAQ_apme.R
+    │-  02_CAQ_Extension.R 
+    │-  03_CAQ_REPRESENTATIVIDAD_HUM.R
+    │-  04_CAQ_REPRESENTATIVIDAD_rios.R
+    │-  05_Integridad_demanda.R
     │    
     └-Datos
     │ │
@@ -25,6 +26,7 @@ El directorio del proyecto está organizado de la siguiente manera.
     |
     └- Res_Intermedios
     |
+    │ └- replaze aquí los datos que  descargue
     └- Resultados
 
 ## Datos
