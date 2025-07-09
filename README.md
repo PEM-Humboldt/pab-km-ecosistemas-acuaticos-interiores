@@ -7,7 +7,7 @@ Cálculo de indicadores e integridad de ecosistemas de agua dulce interiores par
 ## Organizar directorio de trabajo
 
 Los datos para correr los códigos están almacenados
-[aquí](https://drive.google.com/file/d/1YQjFb3u8uJ7UmWHlNncM_UXtJ_gJcOmz/view?usp=drive_link).
+[aquí](https://drive.google.com/file/d/1iJr4AFPc_LKUIYjzwjiM61kXKYEXq4yo/view?usp=drive_link).
 Una vez descargada y descomprimida la carpeta, reemplaze la carpeta “Datos” y "Res_Intermedios" en el directorio Datos del proyecto.
 El directorio del proyecto está organizado de la siguiente manera.
 
