@@ -32,7 +32,7 @@
 # - Si la demanda supera el caudal ecológico mínimo (correspondiente al 10% del Qm),
 #   entonces se considera que la integridad está severamente comprometida y se asigna un valor mínimo de 0.01.
 #
-# Metodología aplicada:
+# Metodología aplicada Detalles en documento xxxxxxx:
 #
 # 1. Lee múltiples archivos CSV con datos de demanda de agua por microcuenca.
 # 2. Agrega las demandas anuales por código y las convierte a caudales en m³/s.
@@ -51,6 +51,16 @@
 #   - Mean annual flow (m3/s): caudal medio anual en m³/s
 # - El shapefile de integridad contiene geometría y un campo "CodeMcr" para unión espacial
 #
+# Fuentes de Datos
+# - Los archivos CSV de la carpeta 'Datos/Demand' - (TNC, 2024a)
+# - El archivo Excel 'KEA_hidro_física.xlsx'- (TNC, 2024a)
+# - El shapefile de integridad - (TNC, 2024a)
+#* Las citas se encuentran en la página principal del repositorio
+#
+# Por hacer: 
+# completar coumento xxxx
+
+
 #**********************************************************
 
 #**********************************************************
