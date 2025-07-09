@@ -7,7 +7,7 @@ En esta sección se guardan los códigos relacionados con el cálculo de los ind
 4. "03_CAQ_REPRESENTATIVIDAD_HUM.R": calcula la representatividad de los ecosistemas de humedal para diferentes desagregaciopnes espaciales según la metodología descrita en la ficha técnica XXXXX. 
 5. "04_CAQ_REPRESENTATIVIDAD_rios.R"calcula la representatividad de los ecosistemas tipo río para diferentes desagregaciopnes espaciales según la metodología descrita en la ficha técnica XXXXX. 
 
-6:"05_Integridad_demanda.R": .................
+6:"05_Integridad_demanda.R": Se calcula el índice de integridad basado en la demanda hídrica según la metodología descrita en la ficha técnica XXX
 
 ## Versiones de los paquetes usados
 
